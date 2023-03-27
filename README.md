@@ -1,2 +1,2 @@
 # html
-html  repo
+html  repo telugu skillhub
